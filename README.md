@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vamshi Kalavagunta, a Robotics student at the University of Maryland, College Park, with a passion for exploring the intersection of technology and innovation in the field of Robotics and AI.
+I'm Vamshi Kalavagunta, a Robotics student at the University of Maryland, College Park.
 
 - 🔭 Currently, I'm diving into Computer Vision Guided Robotics & Deep Imitation Learning for Industrial Automation, focusing on tasks like Front-End Loading, Dexterous Manipulation, and Packaging.
 - 💻 I have a keen interest and experience in Manipulators, Mobile Robots, Machine Learning, Deep Learning, Computer Vision, and NLP.
@@ -9,7 +9,6 @@ I'm Vamshi Kalavagunta, a Robotics student at the University of Maryland, Colleg
 
 Let's innovate together! Feel free to drop me a message, and let's explore exciting possibilities.
 
-Feel free to customize it further to better reflect your personality and interests!
 - 📫 How to reach me: Feel free to shoot me an email at vamshikalavagunta@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/vamshi-kalavagunta-2668581b7/).
 
 
