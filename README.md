@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hi there 👋  
 
-I'm Vamshi Kalavagunta, a Robotics student at the University of Maryland, College Park.
+I'm Vamshi Kalavagunta, a Machine Learning Engineer passionate about leveraging data and AI to drive innovation and solve real-world problems.  
 
-- 🔭 Currently, I'm diving into Computer Vision Guided Robotics & Deep Imitation Learning for Industrial Automation, focusing on tasks like Front-End Loading, Dexterous Manipulation, and Packaging.
-- 💻 I have a keen interest and experience in Manipulators, Mobile Robots, Machine Learning, Deep Learning, Computer Vision, and NLP.
-- 👀 I've worked extensively on planning and perception for autonomous robots, gaining valuable insights into their operation and optimization.
-- 👯 I'm eager to collaborate on projects centered around AI-driven robotics solutions and smart automation systems, leveraging cutting-edge technologies to solve real-world challenges.
+- 🔭 I specialize in developing and deploying end-to-end machine learning pipelines, working with cutting-edge Generative AI models, and fine-tuning LLMs for practical applications.  
+- 💻 My expertise includes NLP, deep learning, and generative AI techniques, with hands-on experience using tools like PyTorch, Hugging Face, and cloud platforms like AWS and Azure.  
+- 👀 I have worked on projects involving data preprocessing, model optimization, and deployment, including designing solutions for semantic search, anomaly detection, and predictive analytics.  
+- 👯 I'm excited to collaborate on innovative AI projects, focusing on creating scalable and impactful data-driven solutions.  
 
-Let's innovate together! Feel free to drop me a message, and let's explore exciting possibilities.
+Let’s connect and create the future with AI! Feel free to reach out to discuss potential collaborations or opportunities.  
 
 - 📫 How to reach me: Feel free to shoot me an email at vamshikalavagunta@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/vamshi-kalavagunta-2668581b7/).
 
